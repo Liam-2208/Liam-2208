@@ -41,7 +41,7 @@ fields_of_interests:
     "DevOps",
   ]
 currently_learning: ["SQL, C#, CSS, XAML ASP.NET , BLAZOR , WPF "]
-2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2027 Goals: ["Make 20+ projects in C# while having an extensive knowledge of .NET."]
 hobbies: ["Gaming", "Music", "Football", "Art", "Movies"]
 ```
   
